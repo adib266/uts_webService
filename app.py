@@ -1,7 +1,7 @@
-# 6B - 19090045 - NURUL ARSIYATI 
-# 6B - 19090085 - NURUL ARIFIAH GUNARSIH
-# 6B - 19090101 - MOH. SYAEFUDIN FIKRI
-# 6B - 19090113 - MULYANA PUTRIYANI 
+# 6c - 19090073 - Moh Adib Lazwar Irkhami 
+# 6c - 19090026 - Hani Fadillah
+# 6c - 19090035 - Kintan Fairuziya
+# 6c - 19090106 - Meyfandi Ardaniawan
 
 from pickle import TRUE
 from flask import Flask,request,jsonify
